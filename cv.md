@@ -23,3 +23,9 @@ function sum(a, b) {
   return a + b;
 };
 ```
+## Education
+#### University: University of Chemical Technology named after D. Mendeleev
+## Courses:
+#### Online course: JavaScript/Front-end. Stage 0
+## English
+#### Level A1. Breakthrough or newcomer
