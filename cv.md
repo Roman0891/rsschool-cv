@@ -9,3 +9,17 @@
 * The material is hard.
 * Target - js junior programmer.
 feat: add basic page layout
+## Skills
+*HTML
+*CSS/SASS
+*Git
+*Code Example
+```function fakeBin(x){
+ 
+let a =  (x.replace( /0|1|2|3|4/g, "0" ))
+return (a.replace)( /5|6|7|8|9/g, "1" )
+  }
+function sum(a, b) {
+  return a + b;
+};
+```
